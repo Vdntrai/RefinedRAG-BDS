@@ -17,8 +17,8 @@ Refined Rag allows you to privately query and interact with your own documents i
 
 ### 1. **Clone the Repository**
 ```bash
-git clone git@github.com:vishes711/RefinedRAG_BDS.git
-cd RefinedRAG_BDS
+git clone git@github.com:vdntrai/RefinedRAG-BDS.git
+cd RefinedRAG-BDS
 ```
 
 ### 2. **Install Dependencies**
